@@ -1,6 +1,6 @@
 # Website-Live-Link
 
-<h2>React Project</h2><hr>
+<h2>React Project</h2>
 <h4>Boi Poka:</h4>
 Surge Link: https://boipoka-ayman.surge.sh/ <br>
 Netlify Link: https://boi-poka-code-by-anwar.netlify.app/
